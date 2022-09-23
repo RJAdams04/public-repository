@@ -1,3 +1,3 @@
 # uoeIDS.github.io
-For the release of slides, labs and homeworks
-Read this 
+For the release of slides, labs and homework 
+*Read it*
